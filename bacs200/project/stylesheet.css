@@ -1,0 +1,18 @@
+body {
+    background-color: lightblue;
+}
+
+div {
+    width: 300px;
+    border: 15px solid pink;
+    padding: 50px;
+    margin: 20px;
+}
+
+h1 {
+
+    color: lightpink;
+    margin-left: 20px;
+    text-align: center;
+
+}
