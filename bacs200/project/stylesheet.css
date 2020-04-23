@@ -16,3 +16,19 @@ h1 {
     text-align: center;
 
 }
+
+a {
+    display: block;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+<p > .center {
+    padding: 70px 0;
+    border: 3px solid white;
+}
